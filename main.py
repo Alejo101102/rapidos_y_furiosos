@@ -15,7 +15,8 @@ notebooks = [
     "hecho_entrega_mensajeria_acumulada.ipynb",
     "hecho_entrega_mensajeria_diario.ipynb",
     "hecho_entrega_mensajeria_hora.ipynb",
-    "hecho_novedad.ipynb"
+    "hecho_novedad.ipynb",
+    "constraints.ipynb"
 ]
 
 def run_notebook(notebook_path):
